@@ -9,5 +9,8 @@ public class A {
 	so()
 	}
 
+
+	int aaa;
+
 	
 }
