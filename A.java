@@ -9,5 +9,5 @@ public class A {
 	so()
 	}
 
-	
+	int bbbb;
 }
