@@ -16,4 +16,6 @@ public class A {
 
 	int bbbb;
 
+	int cccc;
+
 }
