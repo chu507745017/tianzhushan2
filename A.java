@@ -1,6 +1,13 @@
 public class A {
 	String name ;
 	
-	String age;
+
+	int number;
+
+	void play(){
+	
+	so()
+	}
+
 	
 }
